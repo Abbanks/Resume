@@ -2,17 +2,17 @@
 
 ## Project Overview
 Resume is an interactive mobile version of my resume. This app showcases:
--My name, job title, picture, A little bit about yourself, social media links and my skills.
--It supports dark mode and 5 languages which are English, Arabic, French, Spanish and Yoruba.
--It adapts its layout to landscape and portrait orientations accordingly.
+- My name, job title, picture, A little bit about yourself, social media links and my skills.
+- It supports dark mode and 5 languages which are English, Arabic, French, Spanish and Yoruba.
+- It adapts its layout to landscape and portrait orientations accordingly.
 
 ## Code Description
--The `app` module - contains app level and scaffolding classes that bind the rest of the codebase, such as MainActivity.
--The `MainActivity`contains Composables, The UI is divided into 3 sections:
-  -`AboutMe()` composable function : It implements an Image and 3 Text Composables which features my name, title and about me.
-  -`ContactInformation()` composable function: It implements an Image and Text Composables for my social media links.
-  -`Skills()` composable function: It implements Text Composables for my skills.
--The `strings` resource folder consists of 5 xml files for 5 locales which are English, Arabic, French, Spanish and Yoruba.
+- The `app` module: contains app level and scaffolding classes that bind the rest of the codebase, such as MainActivity.
+- The `MainActivity`contains Composables, The UI is divided into 3 sections:
+  - `AboutMe()` composable function : It implements an Image and 3 Text Composables which features my name, title and about me.
+  - `ContactInformation()` composable function: It implements an Image and Text Composables for my social media links.
+  - `Skills()` composable function: It implements Text Composables for my skills.
+- The `strings` resource folder consists of 5 xml files for 5 locales which are English, Arabic, French, Spanish and Yoruba.
 
 
 ## Screenshots
