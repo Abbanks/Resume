@@ -6,8 +6,6 @@ Resume is an interactive mobile version of my resume. This app showcases:
 - It supports dark mode and 5 languages which are English, Arabic, French, Spanish and Yoruba.
 - It adapts its layout to landscape and portrait orientations accordingly.
 
-[App Link](https://drive.google.com/file/d/1mnJqV0h2PcZwlgGnFBqrK-xrl8E8UtTX/view?usp=sharing)
-
 ## Code Description
 - The `app` module: contains app level and scaffolding classes that bind the rest of the codebase, such as MainActivity.
 - The `MainActivity`contains Composables, The UI is divided into 3 sections:
@@ -29,6 +27,8 @@ I did not import a new library, i used the existing ones which are:
 - Jetpack Compose - It is faster, easier to use and requires less code.
 - Material Design - I majorly used for theming, styling, typography.
 - Android KTX - Used to write more concise, idiomatic Kotlin code
+
+[App Link](https://drive.google.com/file/d/1mnJqV0h2PcZwlgGnFBqrK-xrl8E8UtTX/view?usp=sharing)
 
 ## Challenges
 - Design: I am not so good with design so it took me a while to figure out what to do, i had to check designs on Dribbble.
