@@ -6,7 +6,7 @@ Resume is an interactive mobile version of my resume. This app showcases:
 - It supports dark mode and 5 languages which are English, Arabic, French, Spanish and Yoruba.
 - It adapts its layout to landscape and portrait orientations accordingly.
 
-[App Link](https://drive.google.com/file/d/1mnJqV0h2PcZwlgGnFBqrK-xrl8E8UtTX/view?usp=sharing).
+[App Link](https://drive.google.com/file/d/1mnJqV0h2PcZwlgGnFBqrK-xrl8E8UtTX/view?usp=sharing)
 
 ## Code Description
 - The `app` module: contains app level and scaffolding classes that bind the rest of the codebase, such as MainActivity.
