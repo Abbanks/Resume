@@ -40,7 +40,7 @@ I did not import a new library, i used the existing ones which are:
 - Tools Used
 
 ## App Link
-[App Link](https://drive.google.com/file/d/1mnJqV0h2PcZwlgGnFBqrK-xrl8E8UtTX/view?usp=sharing)
+[Resume App Link](https://drive.google.com/file/d/1smAs4zECzD9tbKNrWgqmJa_M7geK8_1V/view?usp=sharing)
 
 ## Challenges
 - Design: I am not so good with design so it took me a while to figure out what to do, i had to check designs on Dribbble.
