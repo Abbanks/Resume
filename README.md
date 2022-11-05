@@ -19,12 +19,12 @@ The app design was inspired by [Monty Hayton](https://dribbble.com/shots/6479159
 [Helena](https://dribbble.com/shots/14436103-Resume-App/attachments/6116864?mode=media), The designs were really minimalistic so it was easier to recreated. Each information was seperated into sections. 
 
 ## Screenshots
-![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109636-ed93030c-86e3-435f-9004-4ae50d1e315e.png)
-![French Dark Mode](https://user-images.githubusercontent.com/51162743/200109647-9e8692a9-1880-4a16-870c-ea00d12048bf.png)
-![Youruba Light Mode](https://user-images.githubusercontent.com/51162743/200109650-36e12a33-37bd-48af-ac03-7d7d2a9adbb4.png)
-![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109670-4a6c9273-2ea5-4713-be78-e50411422f4c.png)
-![Spanish Landscape Mode](https://user-images.githubusercontent.com/51162743/200109664-4c3fddc1-f739-4e8c-89ec-294e6a8faac7.png)
-![Spanish Dark Mode](https://user-images.githubusercontent.com/51162743/200109658-998e5104-7112-4449-a0ac-0a84e1e9a8d7.png)
+![English Dark Mode](https://user-images.githubusercontent.com/51162743/200121490-f7083b6c-145e-4ecb-bb79-6f5e520774ef.png)
+![French Dark Mode](https://user-images.githubusercontent.com/51162743/200121602-760fed17-f79c-4d6c-9bb3-e6af52984c7b.png)
+![Yoruba Light Mode](https://user-images.githubusercontent.com/51162743/200121922-469fb3c0-76ca-4924-9763-ea49dea49bd0.png)
+![Yoruba Light Mode](https://user-images.githubusercontent.com/51162743/200121998-a7a1fba0-a2fd-48d3-a1e8-e2b6020bbcef.png)
+![Spanish Landscape Mode](https://user-images.githubusercontent.com/51162743/200121757-af4ba064-ae10-4e6b-bbb3-2439d74cbb9a.png)
+![Spanish Landscape Mode]https://user-images.githubusercontent.com/51162743/200121797-df4e2270-f054-47d3-9a87-5623a197c3df.png
  
 ## Libraries used
 I did not import a new library, i used the existing ones which are:
