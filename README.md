@@ -32,7 +32,7 @@ I did not import a new library, i used the existing ones which are:
 - Material Design - I majorly used for theming, styling, typography.
 - Android KTX - Used to write more concise, idiomatic Kotlin code
 
-##Features that i would love to add
+## Features that i would love to add
 - Educational Background
 - Projects 
 - Language
@@ -47,4 +47,4 @@ I did not import a new library, i used the existing ones which are:
 - Github: I have never used SSH key to push my code to Github, i have only used username and email, i checked the github documentation and read an article on medium in other to learn how to do it.
 
 ## Live Demo
-[<img src="https://user-images.githubusercontent.com/51162743/200105989-f3cb52e3-f43f-4b81-8de0-1e9377798a2d.png">](https://appetize.io/app/7hfdhmp6huk3dwyi3wns5fvcy4?device=pixel4&osVersion=11.0&scale=75)
+[<img src="https://user-images.githubusercontent.com/51162743/200105989-f3cb52e3-f43f-4b81-8de0-1e9377798a2d.png">](https://appetize.io/app/wnmx2rgsmal4inf3umgp7i6p5q?device=pixel4&osVersion=11.0&scale=75)
