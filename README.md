@@ -7,16 +7,16 @@ Resume is an interactive mobile version of my resume. This app showcases:
 - It adapts its layout to landscape and portrait orientations accordingly.
 
 ## Code Description
-- The `app` module: contains app level and scaffolding classes that bind the rest of the codebase, such as MainActivity.
-- The `MainActivity`contains Composables, The UI is divided into 3 sections:
+- The `app` module: contains app level and scaffolding classes that bind the rest of the codebase, such as `MainActivity`,`AboutMe()`, `ContactInformation()` and `Skills()`.
+- The `MainActivity`contains draws 3 composables, it has a verticalScroll modifier which scrolls the screen vertically. The UI is divided into 3 sections:
   - `AboutMe()` composable function : It implements an Image and 3 Text Composables which features my name, title and about me.
-  - `ContactInformation()` composable function: It implements an Image and Text Composables for my social media links.
+  - `ContactInformation()` composable function: It implements an Image and ClickableText Composables for my social media links.
   - `Skills()` composable function: It implements Text Composables for my skills.
 - The `strings` resource folder consists of 5 xml files for 5 locales which are English, Arabic, French, Spanish and Yoruba.
 
 ## Design
 The app design was inspired by [Monty Hayton](https://dribbble.com/shots/6479159/attachments/6479159-Job-Application-Process-Dashboard-pt3?mode=media) and 
-[Helena](https://dribbble.com/shots/14436103-Resume-App/attachments/6116864?mode=media).
+[Helena](https://dribbble.com/shots/14436103-Resume-App/attachments/6116864?mode=media), The designs were really minimalistic so it was easier to recreated. Each information was seperated into sections. 
 
 ## Screenshots
 ![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109636-ed93030c-86e3-435f-9004-4ae50d1e315e.png)
@@ -31,6 +31,13 @@ I did not import a new library, i used the existing ones which are:
 - Jetpack Compose - It is faster, easier to use and requires less code.
 - Material Design - I majorly used for theming, styling, typography.
 - Android KTX - Used to write more concise, idiomatic Kotlin code
+
+##Features that i would love to add
+- Educational Background
+- Projects 
+- Language
+- Experience
+- Tools Used
 
 ## App Link
 [App Link](https://drive.google.com/file/d/1mnJqV0h2PcZwlgGnFBqrK-xrl8E8UtTX/view?usp=sharing)
