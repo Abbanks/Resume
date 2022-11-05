@@ -7,7 +7,7 @@ Resume is an interactive mobile version of my resume. This app showcases:
 - It adapts its layout to landscape and portrait orientations accordingly.
 
 ## Code Description
-- The `app` module: contains app level and scaffolding classes that bind the rest of the codebase, such as `MainActivity`,`AboutMe()`, `ContactInformation()` and `Skills()`.
+- The `app` module: contains app level and scaffolding classes that bind the rest of the codebase, such as `MainActivity`, `AboutMe()`, `ContactInformation()` and `Skills()`.
 - The `MainActivity`contains draws 3 composables, it has a verticalScroll modifier which scrolls the screen vertically. The UI is divided into 3 sections:
   - `AboutMe()` composable function : It implements an Image and 3 Text Composables which features my name, title and about me.
   - `ContactInformation()` composable function: It implements an Image and ClickableText Composables for my social media links.
