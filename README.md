@@ -19,9 +19,9 @@ Resume is an interactive mobile version of my resume. This app showcases:
 ![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109636-ed93030c-86e3-435f-9004-4ae50d1e315e.png)
 ![French Dark Mode](https://user-images.githubusercontent.com/51162743/200109647-9e8692a9-1880-4a16-870c-ea00d12048bf.png)
 ![Youruba Light Mode](https://user-images.githubusercontent.com/51162743/200109650-36e12a33-37bd-48af-ac03-7d7d2a9adbb4.png)
-![Spanish Dark Mode](https://user-images.githubusercontent.com/51162743/200109658-998e5104-7112-4449-a0ac-0a84e1e9a8d7.png)
-![Spanish Landscape Mode](https://user-images.githubusercontent.com/51162743/200109664-4c3fddc1-f739-4e8c-89ec-294e6a8faac7.png)
 ![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109670-4a6c9273-2ea5-4713-be78-e50411422f4c.png)
+![Spanish Landscape Mode](https://user-images.githubusercontent.com/51162743/200109664-4c3fddc1-f739-4e8c-89ec-294e6a8faac7.png)
+![Spanish Dark Mode](https://user-images.githubusercontent.com/51162743/200109658-998e5104-7112-4449-a0ac-0a84e1e9a8d7.png)
  
 ## Libraries used
 I did not import a new library, i used the existing ones which are:
