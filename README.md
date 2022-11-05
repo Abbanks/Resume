@@ -15,7 +15,7 @@ Resume is an interactive mobile version of my resume. This app showcases:
 - The `strings` resource folder consists of 5 xml files for 5 locales which are English, Arabic, French, Spanish and Yoruba.
 
 ## Design
-The app design was inspired by [Monty Hayton](https://dribbble.com/shots/6479159/attachments/6479159-Job-Application-Process-Dashboard-pt3?mode=media and 
+The app design was inspired by [Monty Hayton](https://dribbble.com/shots/6479159/attachments/6479159-Job-Application-Process-Dashboard-pt3?mode=media) and 
 [Helena](https://dribbble.com/shots/14436103-Resume-App/attachments/6116864?mode=media).
 
 ## Screenshots
