@@ -24,7 +24,7 @@ The app design was inspired by [Monty Hayton](https://dribbble.com/shots/6479159
 ![Yoruba Light Mode](https://user-images.githubusercontent.com/51162743/200121922-469fb3c0-76ca-4924-9763-ea49dea49bd0.png)
 ![Yoruba Light Mode](https://user-images.githubusercontent.com/51162743/200121998-a7a1fba0-a2fd-48d3-a1e8-e2b6020bbcef.png)
 ![Spanish Landscape Mode](https://user-images.githubusercontent.com/51162743/200121757-af4ba064-ae10-4e6b-bbb3-2439d74cbb9a.png)
-![Spanish Landscape Mode]https://user-images.githubusercontent.com/51162743/200121797-df4e2270-f054-47d3-9a87-5623a197c3df.png
+![Spanish Landscape Mode](https://user-images.githubusercontent.com/51162743/200121797-df4e2270-f054-47d3-9a87-5623a197c3df.png)
  
 ## Libraries used
 I did not import a new library, i used the existing ones which are:
