@@ -1,17 +1,35 @@
 # Resume
 
 ## Project Overview
-Resume is an interactive mobile version of my resume. It showcases my name, job title, picture, A little bit about yourself, social media links and my skills.
--It supports dark mode and 4 languages which are Arabic, French, Spanish and Yoruba.
+Resume is an interactive mobile version of my resume. This app showcases:
+-My name, job title, picture, A little bit about yourself, social media links and my skills.
+-It supports dark mode and 5 languages which are English, Arabic, French, Spanish and Yoruba.
 -It adapts its layout to landscape and portrait orientations accordingly.
 
-## Libraries used and why i used them
+## Code Description
+-The `app` module - contains app level and scaffolding classes that bind the rest of the codebase, such as MainActivity.
+-The `MainActivity`contains Composables, The UI is divided into 3 sections:
+  -`AboutMe()` composable function : It implements an Image and 3 Text Composables which features my name, title and about me.
+  -`ContactInformation()` composable function: It implements an Image and Text Composables for my social media links.
+  -`Skills()` composable function: It implements Text Composables for my skills.
+-The `strings` resource folder consists of 5 xml files for 5 locales which are English, Arabic, French, Spanish and Yoruba.
+
+
+## Screenshots
+![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109636-ed93030c-86e3-435f-9004-4ae50d1e315e.png)
+![French Dark Mode](https://user-images.githubusercontent.com/51162743/200109647-9e8692a9-1880-4a16-870c-ea00d12048bf.png)
+![Youruba Light Mode](https://user-images.githubusercontent.com/51162743/200109650-36e12a33-37bd-48af-ac03-7d7d2a9adbb4.png)
+![Spanish Dark Mode](https://user-images.githubusercontent.com/51162743/200109658-998e5104-7112-4449-a0ac-0a84e1e9a8d7.png)
+![Spanish Landscape Mode](https://user-images.githubusercontent.com/51162743/200109664-4c3fddc1-f739-4e8c-89ec-294e6a8faac7.png)
+![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109670-4a6c9273-2ea5-4713-be78-e50411422f4c.png)
+ 
+## Libraries used
 I did not import a new library, i used the existing ones which are:
 - Jetpack Compose - It is faster, easier to use and requires less code.
 - Material Design - I majorly used for theming, styling, typography.
 - Android KTX - Used to write more concise, idiomatic Kotlin code
 
-## Challenges and how i solved them
+## Challenges
 - Design: I am not so good with design so it took me a while to figure out what to do, i had to check designs on Dribbble.
 - Github: I have never used SSH key to push my code to Github, i have only used username and email, i checked the github documentation and read an article on medium in other to learn how to do it.
 
