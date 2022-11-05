@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="name" translatable="false">Olubanke Eboda</string>
+    <string name="title">Android Kotlin Developer</string>
+    <string name="bio"> A native Android developer with less than 1 year of experience.
+        When I am not developing apps, I am watching movies or hang out with my friends.
+</string>
+    <string name="location" translatable="false">Abuja,Nigeria</string>
+    <string name="contactHeading">Contact Information</string>
+    <string name="phoneNumber" translatable="false">07066994134</string>
+    <string name="emailAddress" translatable="false">olubanke.eboda.gmail.com</string>
+    <string name="skillset">Skills</string>
+    <string name="skill1">I have intermediate skills in Kotlin and Android Development.</string>
+    <string name="skill2">I can debug and read code written by others.</string>
+    <string name="skill3">I am good at working with a team.</string>
+    <string name="skill4">I love to teach and learn from others.</string>
+    <string name="twitter" translatable="false">https://twitter.com/bibi_the_muse</string>
+    <string name="github" translatable="false">https://github.com/Abbanks</string>
+    <string name="linkedin" translatable="false">https://www.linkedin.com/in/banke-eboda/</string>
+</resources>

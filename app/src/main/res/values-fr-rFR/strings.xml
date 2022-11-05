@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="title">Développeur Android Kotlin</string>
+    <string name="bio">Un développeur Android natif avec moins d\'un an d\'expérience. Lorsque je ne développe pas d\'applications, je regarde des films ou je traîne avec mes amis.</string>
+    <string name="contactHeading">Coordonnées</string>
+    <string name="skillset">Compétences</string>
+    <string name="skill1">J\'ai des compétences intermédiaires en développement Kotlin et Android.</string>
+    <string name="skill2">Je peux déboguer et lire du code écrit par d\'autres.</string>
+    <string name="skill3">Je sais bien travailler en équipe.</string>
+    <string name="skill4">J\'aime enseigner et apprendre des autres.</string>
+</resources>

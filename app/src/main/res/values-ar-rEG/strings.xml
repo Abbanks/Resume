@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="title">مطور Android Kotlin</string>
+    <string name="bio">مطور Android أصلي يتمتع بخبرة تقل عن عام واحد. عندما لا أقوم بتطوير التطبيقات ، فأنا أشاهد الأفلام أو أتسكع مع أصدقائي.</string>
+    <string name="contactHeading">معلومات التواصل</string>
+    <string name="skillset">مهارات</string>
+    <string name="skill1">لدي مهارات متوسطة في تطوير Kotlin و Android.</string>
+    <string name="skill2">يمكنني تصحيح الأخطاء وقراءة التعليمات البرمجية التي كتبها الآخرون.</string>
+    <string name="skill3">أنا جيد في العمل مع فريق.</string>
+    <string name="skill4">أنا أحب التدريس والتعلم من الآخرين.</string>
+</resources>

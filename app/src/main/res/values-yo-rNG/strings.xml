@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="title">Android Kotlin Olùgbéejáde</string>
+    <string name="bio">Olùgbéejáde Android abinibi ti o ni iriri ti o kere ju ọdun 1. Nigbati Emi ko ṣe idagbasoke awọn ohun elo, Mo n wo awọn fiimu tabi gbe jade pẹlu awọn ọrẹ mi.</string>
+    <string name="contactHeading">Ibi iwifunni</string>
+    <string name="skillset">Awọn ogbon</string>
+    <string name="skill1">Mo ni awọn ọgbọn agbedemeji ni Kotlin ati Android Development.</string>
+    <string name="skill2">Mo le yokokoro ati ka koodu ti awọn miiran kọ.</string>
+    <string name="skill3">Mo dara ni ṣiṣẹ pẹlu ẹgbẹ kan.</string>
+    <string name="skill4">Mo nifẹ lati kọ ati kọ ẹkọ lati ọdọ awọn miiran.</string>
+</resources>
