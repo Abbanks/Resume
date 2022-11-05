@@ -14,6 +14,9 @@ Resume is an interactive mobile version of my resume. This app showcases:
   - `Skills()` composable function: It implements Text Composables for my skills.
 - The `strings` resource folder consists of 5 xml files for 5 locales which are English, Arabic, French, Spanish and Yoruba.
 
+## Design
+The design is 
+
 ## Screenshots
 ![English Dark Mode](https://user-images.githubusercontent.com/51162743/200109636-ed93030c-86e3-435f-9004-4ae50d1e315e.png)
 ![French Dark Mode](https://user-images.githubusercontent.com/51162743/200109647-9e8692a9-1880-4a16-870c-ea00d12048bf.png)
@@ -28,6 +31,7 @@ I did not import a new library, i used the existing ones which are:
 - Material Design - I majorly used for theming, styling, typography.
 - Android KTX - Used to write more concise, idiomatic Kotlin code
 
+## App Link
 [App Link](https://drive.google.com/file/d/1mnJqV0h2PcZwlgGnFBqrK-xrl8E8UtTX/view?usp=sharing)
 
 ## Challenges
